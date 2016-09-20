@@ -3,7 +3,7 @@ var firebase = new Firebase("https://food4u-70515.firebaseio.com/");
 
 // Using the firebase config to connect to the database
 var config = {
-	apiKey: "AIzaSyA_rCsgelF_pNS1DSjcvgYeaiZsJSIKSTI",
+	apiKey: " ",
 	authDomain: "food4u-70515.firebaseapp.com",
 	databaseURL: "https://food4u-70515.firebaseio.com",
 	storageBucket: "http://food4u-70515.appspot.com/"
